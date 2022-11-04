@@ -7,5 +7,14 @@
 ### Download Pre-requisite
 - Version of Unity3D used must be 2020.1.8f1 to run the project. Other version will result in inconsistencies.
 
+### Launching Unity3D Scene
+
+- Go to Asset/Scene and launch SampleScene as seen below 
+![image](https://user-images.githubusercontent.com/38741564/199883763-6d37a470-3a0e-4577-bca0-73a3fd9614aa.png)
+
+- Successful lauching of the project
 ![image](https://user-images.githubusercontent.com/38741564/199883200-5a3a5504-83f7-483c-bf3b-7b9d7e14c7b2.png)
-Successful lauching of the project
+
+
+Project Hierachy
+- 
