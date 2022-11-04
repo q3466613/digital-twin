@@ -1,7 +1,7 @@
 # Bosch Digital Twin
 
 ### Current 2 ways to access the project files:
-1. Download the project file at the Google Drive Link here https://drive.google.com/file/d/1nLYiE6tKn-VuaBJ-lygrG3-9saaCYCv8/view?usp=sharing
+1. Download the project file at the Google Drive Link here: https://drive.google.com/file/d/1ums9ewy-afohJq6I82pcDO8s16tjaj_e/view?usp=sharing
 2. Bosch Laptop SGPZ73012 which I have passed to Trung 
 
 ### Download Pre-requisite
