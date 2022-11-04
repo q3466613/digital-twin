@@ -2,7 +2,7 @@
 
 ### Current 2 ways to access the project files:
 1. Download the project file at the Google Drive Link here: https://drive.google.com/file/d/1ums9ewy-afohJq6I82pcDO8s16tjaj_e/view?usp=sharing
-2. Bosch Laptop SGPZ73012 which I have passed to Trung 
+2. Bosch Laptop SGPZ73012 which I have passed to Trung: C:\Users\Bosch\Desktop\Bosch Workspace\unity-digital-twin\ABB_Unity_App_Final
 
 ### Download Pre-requisite
 - Version of Unity3D used must be 2020.1.8f1 to run the project. Other version will result in inconsistencies.
