@@ -17,9 +17,16 @@
 - Go to Game tab and click on the play icon as seen below. The demo will begin and objects will start to move on the conveyor belt. *Object picking motion for the robotic arm is not yet implemeted.
 - ![image](https://user-images.githubusercontent.com/38741564/199903424-f0544b28-ba99-4bcb-9f92-47709fe81c2f.png)
 
-### Connecting physical robotic arm to Unity
+### Connecting physical robotic arm to Unity3D
 
-- Check the pre
+- Check the IP address for the robotic. (192.168.1.2 at the time of this entry)
+- Ensure that the robotic arm is 
+- Jogging the robotic arm physically will allow the robotic arm to follow the same motion in Unity3D
+
+### Connecting a virtual robotic arm to Unity3D
+
+- Create a virtual ARM1200 robotic arm in RobotStudio
+- 
 
 
 ### Important Files
