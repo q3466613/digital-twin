@@ -28,4 +28,11 @@
 
 
 ### Important Files
-Conveyor Belt Speed Controll
+These files can be retrieved from Scripts folder of the project
+1. Scripts/ABB/Link --> This folder is comprises of 6 parts which irb120_link1 forming the base of the robotic arm and irb120_link6 forming the end-effector of the robotic arm. These 6 parts make up the 3D model used for the IRB120 robotic arm in Unity3D in which the inital postion vector of Link1 will undergo Euler Transformation with reference to the position vector of its N-1 counterpart until all 6 parts are completely transformed.
+
+3. Abb_data_processing -> 
+
+2. Conveyor Belt -> Conveyor speed is set at 0.5 m/s for faster simulation instead of the deafult 0.28 m/s that the project use but this setting can be changed anytime. Do remember to set the Box Collider to Is Trigger to allow the object to not fall through conveyor 
+
+3. Main UI --> Reads the connection status of the robotic arm and its joint angle 
