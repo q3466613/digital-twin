@@ -22,8 +22,9 @@
 - ![image](https://user-images.githubusercontent.com/38741564/199921674-417d6f60-da25-4d76-b832-29ebfcf1f162.png)
 
 ### Connecting a virtual robotic arm to Unity3D
-- Create a ABB ARM1200 robotic arm in RobotStudio with virtual controller
-- To 
+- Create a ABB ARM1200 robotic arm in RobotStudio with virtual controller and check for its IP address while it is active in the background.
+- Click on the first icon on the right panel as seen below after [Launching Digital Twin Demo] is done and type in the IP address for the robotic arm to connect
+- Jogging the robotic arm physically will allow the robotic arm to follow the same motion in Unity3D
 
 
 ### Important Files
