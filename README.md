@@ -12,7 +12,16 @@
 - Go to Asset/Scene and launch SampleScene. Successful launching would result in the same scene as seen below
 ![image](https://user-images.githubusercontent.com/38741564/199883763-6d37a470-3a0e-4577-bca0-73a3fd9614aa.png)
 
+### Launching Digital Twin Demo
+
+- Go to Game tab and click on the play icon as seen below. The demo will begin and objects will start to move on the conveyor belt. *Object picking motion for the robotic arm is not yet implemeted.
+- ![image](https://user-images.githubusercontent.com/38741564/199903424-f0544b28-ba99-4bcb-9f92-47709fe81c2f.png)
+
+### Connecting physical robotic arm to Unity
+
+- Check the pre
 
 
-Project Hierachy
-- 
+### Important Files
+
+
