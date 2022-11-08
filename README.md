@@ -20,12 +20,13 @@
 - Click on the first icon on the right panel as seen below after [Launching Digital Twin Demo] is done and type in the IP address for the robotic arm to connect
 - Jogging the robotic arm physically will allow the robotic arm to follow the same motion in Unity3D
 - ![image](https://user-images.githubusercontent.com/38741564/199921674-417d6f60-da25-4d76-b832-29ebfcf1f162.png)
+![Connecting Physical Robotic Arm to Unity3D](https://user-images.githubusercontent.com/38741564/200603447-9e925f47-d68f-4478-a533-7c779286c5ce.gif)
 
 ### Connecting a virtual robotic arm to Unity3D
 - Create a ABB ARM1200 robotic arm in RobotStudio with virtual controller and check for its IP address while it is active in the background.
 - Click on the first icon on the right panel as seen below after [Launching Digital Twin Demo] is done and type in the IP address for the robotic arm to connect
 - Jogging the robotic arm physically will allow the robotic arm to follow the same motion in Unity3D
-
+![Connecting RobotStudio to Unity3D](https://user-images.githubusercontent.com/38741564/200603402-91b42264-a69d-4d3f-aa57-e62bf7de7c81.gif)
 
 ### Important Files
 These files can be retrieved from Scripts folder of the project
